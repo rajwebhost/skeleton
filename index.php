@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en-us" class="no-js">
   <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    
-    <title>We are Coming Soon - Hosted by Raj Web Host Ltd
+
+    <title>We are Coming Soon - Hosted by Raj Web Host
     </title>
-    <meta name="description" content="This website is hosted by Raj Web Host Ltd, one of the best & reliable premium web hosting service provider in Bangladesh.">
+    <meta name="description" content="This website is hosted by Raj Web Host, one of the best & reliable premium web hosting service provider in Bangladesh.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="RajWebHost">
     <!-- ================= Favicon ================== -->
@@ -15,9 +15,9 @@
     <!--<link rel="apple-touch-icon" sizes="144x144" href="https://www.RajWebHost.com/images/favicon.ico">-->
     <!-- Retina iPhone Touch Icon-->
     <!--<link rel="apple-touch-icon" sizes="114x114" href="https://www.RajWebHost.com/images/favicon.ico">-->
-    <!-- Standard iPad Touch Icon--> 
+    <!-- Standard iPad Touch Icon-->
     <!--<link rel="apple-touch-icon" sizes="72x72" href="https://www.RajWebHost.com/images/favicon.ico">-->
-    <!-- Standard iPhone Touch Icon--> 
+    <!-- Standard iPhone Touch Icon-->
     <!--<link rel="apple-touch-icon" sizes="57x57" href="https://www.RajWebHost.com/images/favicon.ico">-->
     <!-- ============== Resources style ============== -->
     <link rel="stylesheet" href="css/style-minimal.css" />
@@ -53,26 +53,26 @@
         <br>
         <h1 class="text-intro opacity-0"><?php
         $domain_name = $_SERVER['SERVER_NAME'];
-        
+
         echo $domain_name ; ?></h1>
         <h1>is coming soon
         </h1>
-		<h2>Server IP is: 
+		<h2>Server IP is:
 		<?php
         $server_ip = $_SERVER['SERVER_ADDR'];
-        
-        echo $server_ip ; 
+
+        echo $server_ip ;
 		?>
 		</h2>
-		<h2>Your IP address is: 
+		<h2>Your IP address is:
 		<?php
         $visitor_ip = $_SERVER['REMOTE_ADDR'];
-        
-        echo $visitor_ip ; 
+
+        echo $visitor_ip ;
 		?>
 		</h2>
         <!--<h2><div id="getting-started"></div></h2>-->
-        <h2 class="text-intro opacity-0">Domain / Hosting Service Provided by 
+        <h2 class="text-intro opacity-0">Domain / Hosting Service Provided by
           <a class="raj" href="https://www.RajWebHost.com/" target="_blank">RAJ WEB HOST
           </a>
           <br />
@@ -81,26 +81,25 @@
         Office Address:
         <br>
         <br>
-        RAJ WEB HOST LTD.
+        RAJ WEB HOST
         <br />
         H#333/01 (4th Floor), Hatem Khan Choto Masjid Road, <br>
-        (In front of DBH Foundation School)<br>
         Boalia, Ghoramara, Rajshahi -  6100<br>
-          
+
         <br />
         <br />
-        Sales: 
+        Sales:
         <a href="tel:+8801714825865">+88 01714 825 865
-        </a> 
+        </a>
         <br />
         Available during 08:00 AM to 11:59 PM (GMT +06:00)
         <br />
         <br />
-        Website: 
+        Website:
         <a href="https://www.RajWebHost.com/" target="_blank">www.rajwebhost.com
-        </a> 
+        </a>
         <br>
-        Email: 
+        Email:
         <a href="admin@rajwebhost.com">admin@rajwebhost.com
         </a>
         <br />
@@ -138,10 +137,10 @@
     </script>
     <!-- PhotoSwipe Core JS file -->
     <script src="js/velocity.min.js">
-    </script> 
+    </script>
     <!-- PhotoSwipe UI JS file -->
     <script src="js/velocity.ui.min.js">
-    </script> 
+    </script>
     <!-- Newsletter plugin -->
     <script src="js/notifyMe.js">
     </script>
