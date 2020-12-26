@@ -86,7 +86,6 @@
         Boalia, Ghoramara, Rajshahi -  6100<br>
 
         <br />
-        <br />
         Sales:
         <a href="tel:+8801714825865">+88 01714 825 865
         </a>
