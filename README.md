@@ -1,3 +1,3 @@
 # skeleton
 
-default skeleton directory RajWebHost
+default skeleton directory of RajWebHost
