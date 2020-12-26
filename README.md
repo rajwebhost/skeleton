@@ -2,4 +2,4 @@
 
 default skeleton directory of RajWebHost
 
-Thanks
+Thanks 2
