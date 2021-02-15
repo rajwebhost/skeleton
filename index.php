@@ -43,9 +43,9 @@
     <!-- START - Home/Left Part -->
     <section id="left-side" class="minimal-phone">
       <!-- Your logo -->
-      <a href="https://www.rajwebhost.com" target="_blank">
+      <!-- <a href="https://www.rajwebhost.com" target="_blank">
       <img src="https://www.rajwebhost.com/images/logo.svg" alt="RajWebHost" class="brand-logo" />
- 	 </a>
+ 	 </a> -->
       <div class="content">
         <br />
         <br />
