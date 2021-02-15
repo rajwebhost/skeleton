@@ -78,21 +78,21 @@
           <br />
         </h2>
         <br />
-        Office Address:
+        <!-- Office Address:
         <br>
         RAJ WEB HOST
         <br />
         H#333/01 (4th Floor), Hatem Khan Choto Masjid Road, <br>
-        Boalia, Ghoramara, Rajshahi -  6100<br>
+        Boalia, Ghoramara, Rajshahi -  6100<br> -->
 
-        <br />
+        <!-- <br />
         Sales:
         <a href="tel:+8801714825865">+88 01714 825 865
         </a>
         <br />
         Available during 08:00 AM to 11:59 PM (GMT +06:00)
         <br />
-        <br />
+        <br /> -->
         Website:
         <a href="https://www.RajWebHost.com/" target="_blank">www.rajwebhost.com
         </a>
