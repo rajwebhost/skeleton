@@ -66,7 +66,9 @@
 		</h2>
 		<h2>Your IP address is:
 		<?php
-        $visitor_ip = $_SERVER['REMOTE_ADDR'];
+        // $visitor_ip = $_SERVER['REMOTE_ADDR'];
+
+        $visitor_ip = $_SERVER['HTTP_X_REAL_IP'];
 
         echo $visitor_ip ;
 		?>
